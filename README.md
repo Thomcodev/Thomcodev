@@ -1,5 +1,6 @@
-<center>Hi, I am ChecoDev 👋</center>
-
+<div aling="center">
+  <h1 align="center">Hi, I am ChecoDev 👋</h1>
+</div>
 <!--
 **Thomcodev/Thomcodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
