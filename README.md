@@ -53,20 +53,15 @@ const aboutMe = {
 
 
   <a href="https://www.linkedin.com/in/pachecopérez">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Pedro Tomas Pacheco LinkedIn Profile" height="30" width="30">
   </a>
 
- 
-
-
-  <a href="https://gitlab.com/AnhellO">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+  <a href="https://gitlab.com/Thomcodev">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Pedro Tomas Pacheco GitLab Profile" height="30" width="30">
   </a>
   
- 
-  
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  <a href="https://www.youtube.com/channel/UCru2nI1BFYSEVDaXID3-XPw">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Pedro Tomas Pacheco YouTube Channel" height="30" width="30">
   </a>
 </p>
 
