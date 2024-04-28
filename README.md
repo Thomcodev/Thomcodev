@@ -1,9 +1,9 @@
 
 <div aling="center">
-  <h1 align="left">Hi, <a href="#">I am ChecoDev </a>👋</h1>
+  <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
-<div align="center">
+<div align="left">
 <img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="60%" />  
 </div>
 
