@@ -47,6 +47,14 @@ const aboutMe = {
 
 </br>
 
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomcodev&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomcodev&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+
+
+
+
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
