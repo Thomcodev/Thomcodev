@@ -3,7 +3,7 @@
   <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
-<div color="orange">
+<div style="background_color: orange">
   
 </div>
 <!--
