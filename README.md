@@ -3,7 +3,7 @@
   <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
-<div style="text-align: center;">
+<div style="inline-block">
   <div style="display: inline-block; text-align: left;">
     <img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="60%"/>
   </div>
