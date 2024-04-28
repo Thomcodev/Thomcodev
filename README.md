@@ -39,7 +39,7 @@ const aboutMe = {
 ```
 </br></br>
 
-<h4 align="center">Profile stats :statistics:</h4>
+<h4 align="center">Profile stats🧮</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thomcodev&show_icons=true&theme=synthwave" alt="Thoncodev :: Profile Stats" /></p>
 
