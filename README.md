@@ -3,15 +3,11 @@
   <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
-<div display="inline-block">
-<div align="left" display="inline-block">
-<img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="60%" />  
+<div align="center">
+  <img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs"/>
 </div>
-<div align="right" display="inline-block">
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>  
-</div>
-  
-</div>
+
 
 
 
