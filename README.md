@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="60%">
+  <img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" width="35%">
 </div>
 
