@@ -49,8 +49,8 @@ const aboutMe = {
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomcodev&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomcodev&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomcodev&repo=PackageTemplate&show_owner=true)](https://github.com/Thomcodev/Devtom)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Thomcodev&repo=Foods-Ecommerce&show_owner=true)](https://github.com/Thomcodev/Devtom)
 
 
 
