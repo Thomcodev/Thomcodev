@@ -3,7 +3,10 @@
   <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
-<img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="50%" align="center"/>
+<div align="center">
+<img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="50%" />  
+</div>
+
 
 
 <div style="background_color: orange">
