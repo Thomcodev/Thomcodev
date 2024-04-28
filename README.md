@@ -1,6 +1,6 @@
 
 <div aling="center">
-  <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
+  <h1 align="left">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
 <div align="center">
