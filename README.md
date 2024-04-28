@@ -3,7 +3,7 @@
   <h1 align="center">Hi, <a href="#">I am ChecoDev </a>👋</h1>
 </div>
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg"/>
 
 
 <div style="background_color: orange">
