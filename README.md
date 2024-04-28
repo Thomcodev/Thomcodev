@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="50%" />  
+<img src="Presentación propuesta técnica desarrollo código programación fondo oscuro.jpg" width="60%" />  
 </div>
 
 
