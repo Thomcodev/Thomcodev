@@ -13,7 +13,7 @@
 
 
 
-
+<div>
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -36,6 +36,8 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+  
+</div>
 </br></br>
 <!--
 **Thomcodev/Thomcodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
